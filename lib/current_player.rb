@@ -1,6 +1,7 @@
 def turn_count(board)
+  counter = 0
   board.each do |turn|
     puts "This is turn number #{turn}"
-    turn += 1
+    counter += 1
+    until counter == 9
   end
-  
