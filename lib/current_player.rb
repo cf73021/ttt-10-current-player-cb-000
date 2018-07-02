@@ -4,6 +4,6 @@ def turn_count(board)
     if turn == "X" || "O"
       counter += 1
     end
-  puts "This is turn number #{turn}"
   end
+  puts "This is turn number #{turn}"
 end
