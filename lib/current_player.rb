@@ -13,4 +13,5 @@ def current_player(board)
     puts "X's turn"
   else
     puts "O's turn"
+  end
 end
