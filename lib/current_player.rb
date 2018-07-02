@@ -4,4 +4,5 @@ def turn_count(board)
     puts "This is turn number #{turn}"
     counter += 1
     until counter == 9
+    end
   end
